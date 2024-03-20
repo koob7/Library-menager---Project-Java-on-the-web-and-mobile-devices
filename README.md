@@ -1,0 +1,1 @@
+The project focused on developing a Java application with the primary aim of implementing the MVC model. Servlets were utilized for constructing the HTML interface. An SQL database was employed for data storage. Additionally, I wrote unit tests to ensure the reliability and robustness of the application.
